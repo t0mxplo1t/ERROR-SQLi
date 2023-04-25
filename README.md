@@ -16,6 +16,6 @@ Installation
 
 `git clone https://github.com/t0mxplo1t/ERROR-SQLi.git`
 
-cd `ERROR-SQLi`
+`cd ERROR-SQLi`
 
 `python errorbased.py`
